@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<!-- qu13e (c) 2008.  all rights wronged and reserved. -->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>qu13error : 404</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+	<meta http-equiv="no-cache" content="no-cache" />
+	<meta name="description" content="qu13e." />
+	<meta name="keywords" content="QU13E, qu13e, splinternails, Clockstop the Whys, Random Martin" />
+	<link rel="stylesheet" href="/inc/err.css" type="text/css" />
+</head>
+
+<body>
+
+<div id="errbox">
+	<div class="errtype">404</div>
+	<div class="errtext">not found.</div>
+</div>
+
+</body>
+</html>
+
+<!-- we're ba-a-ack. -->
